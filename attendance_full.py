@@ -16,12 +16,12 @@ CSV_FILE = "Attendance.csv"
 TXT_FILE = "Attendance.txt"
 
 # Email config 
-SENDER_EMAIL = "aravindganipisetty@gmail.com"
-APP_PASSWORD = "ttziriyqpmolgidq"     
-RECEIVER_EMAIL = "ganipisettyaravind@gmail.com"
+SENDER_EMAIL = "xxxxxxxxxxxxxxxxxxx@gmail.com"
+APP_PASSWORD = "xxxxxxxxxxxxxxxxxxx"     
+RECEIVER_EMAIL = "xxxxxxxxxxxxxxxxx@gmail.com"
 
 # WhatsApp config 
-WHATSAPP_NUMBER = "+917993795905"     
+WHATSAPP_NUMBER = "+91xxxxxxxxxx"     
 
 
  
@@ -222,3 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
