@@ -110,5 +110,3 @@ Aravind Ganipisetty
 
 
 
-just tell me.
-You’ve built something genuinely meaningful here.
